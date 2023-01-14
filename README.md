@@ -6,15 +6,20 @@
   
   <br>
   
-  [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTeo&count_private=true&show_icons=true&theme=graywhite&title_color=000000&text_color=000000&icon_color=000000&bg_color=45,b3b3b3,ffffff&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+  [![Gabriel's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=GabrielTeo&count_private=true&show_icons=true&theme=default&bg_color=00000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  [![Gabriel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GabrielTeo&count_private=true&show_icons=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTeo&langs_count=10&layout=compact&theme=graywhite&title_color=000000&text_color=000000&icon_color=000000&bg_color=45,b3b3b3,ffffff&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTeo&langs_count=10&layout=compact&theme=default&bg_color=00000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTeo&langs_count=10&layout=compact&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
   
   <details>
     <summary align="left">LeetCode Stats</summary>
     <br>
     <a href="https://github.com/KnlnKS/leetcode-stats">
-      <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=Retainee" width="400"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-stats-six.vercel.app/?username=Retainee&theme=dark" width="400"/>
+        <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=Retainee&theme=light" width="400"/>
+      </picture>
     </a>
   </details>
   
